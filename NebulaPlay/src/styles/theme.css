@@ -1,0 +1,52 @@
+:root {
+  /* ========= Colors ========= */
+
+  --bg-primary: #050816;
+  --bg-secondary: #0b1120;
+  --bg-card: rgba(17, 24, 39, 0.72);
+
+  --text-primary: #ffffff;
+  --text-secondary: #94a3b8;
+
+  --primary: #3b82f6;
+  --secondary: #8b5cf6;
+  --accent: #06b6d4;
+
+  /* ========= Radius ========= */
+
+  --radius-sm: 12px;
+  --radius-md: 18px;
+  --radius-lg: 24px;
+  --radius-xl: 32px;
+
+  /* ========= Shadows ========= */
+
+  --shadow-glow-blue:
+    0 0 40px rgba(59,130,246,.35);
+
+  --shadow-glow-purple:
+    0 0 50px rgba(139,92,246,.35);
+
+  --shadow-card:
+    0 20px 80px rgba(0,0,0,.35);
+
+  /* ========= Glass ========= */
+
+  --glass-bg:
+    rgba(255,255,255,.05);
+
+  --glass-border:
+    rgba(255,255,255,.08);
+
+  --glass-blur:
+    blur(20px);
+
+  /* ========= Layout ========= */
+
+  --container: 1440px;
+
+  /* ========= Transition ========= */
+
+  --transition:
+    250ms ease;
+}
